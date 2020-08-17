@@ -5,9 +5,9 @@ const path = require('path');
 const config = require('./keys.json');
 
 const client = new CommandoClient({
-    owner: '143404700685959169',
+    owner: '1234567890',
     commandPrefix: '?',
-    invite: 'https://discord.gg/zpU8rWm'
+    invite: 'https://discord.gg/[INVITE HERE]'
 });
 
 client.registry
